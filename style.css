@@ -486,7 +486,7 @@ nav
 .faq.active .answer{
     max-height:300px;
     padding:30px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 .qbtn button i{
